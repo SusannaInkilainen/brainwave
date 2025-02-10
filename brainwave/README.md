@@ -1,8 +1,9 @@
-# React + Vite
+# Brainwave || [JavaScript Mastery](https://youtu.be/B91wc5dCEBA?si=idu3v1UCiElt7XvJ) 
+<li>React.js</li>
+<li>Tailwind css</li>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Kuvia
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![valmis01.PNG](public/ss/valmis01.PNG)
+![valmis02.PNG](public/ss/valmis02.PNG)
+![valmis03.PNG](public/ss/valmis03.PNG)
